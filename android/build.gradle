@@ -25,6 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace 'com.merigo.solana_wallet_adapter_android'
     compileSdkVersion 31
 
     compileOptions {
