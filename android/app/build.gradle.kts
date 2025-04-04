@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.root37.solana_wallet_adapter_android"
+    namespace = "com.merigo.solana_wallet_adapter_android"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
